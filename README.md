@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hello there! 👋
 
+My name is **Gamma Rizquha Wiradisastra**.\
+I am an **Informatics Student** at [Institut Teknologi Nasional Bandung](https://www.itenas.ac.id/).\
+I am currently learning Cloud Computing with [Bangkit](https://grow.google/intl/id_id/bangkit/) by [Grow with Google](https://grow.google/intl/id_id/) and [Dicoding](https://www.dicoding.com/).\
+If you are interested, please follow my [Linkedin](https://www.linkedin.com/in/gamma-rizquha-wiradisastra-756b72179/).
 <!--
 **ziqu98/ziqu98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
