@@ -2,7 +2,7 @@
 
 My name is **Gamma Rizquha Wiradisastra**.\
 I am an **Informatics Student** at [Institut Teknologi Nasional Bandung](https://www.itenas.ac.id/).\
-I am currently learning Cloud Computing with [Bangkit by Grow with Google](https://grow.google/intl/id_id/bangkit/) and [Dicoding](https://www.dicoding.com/).\
+I am a Cloud Computing Graduate at [Bangkit by Grow with Google](https://grow.google/intl/id_id/bangkit/) and [Dicoding](https://www.dicoding.com/).\
 If you are interested, please follow my [Linkedin](https://www.linkedin.com/in/gammarw/).
 <!--
 **ziqu98/ziqu98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
